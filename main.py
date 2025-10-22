@@ -1,1 +1,1 @@
-dsadasdsa
+print('Correct logic')
