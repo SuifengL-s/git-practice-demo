@@ -1,1 +1,1 @@
-print('Hello from feature')
+print('Correct logic')
