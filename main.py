@@ -1,1 +1,1 @@
-DANGEROUS_CODE = TURE
+print('Correct logic')
