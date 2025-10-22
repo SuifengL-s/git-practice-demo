@@ -1,1 +1,1 @@
-print('Correct logic')
+DANGEROUS_CODE = TURE
